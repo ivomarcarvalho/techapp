@@ -26,4 +26,8 @@ git push -u origin main
 # em caso de erro push forçado
 git push -f origin main
 
-# teste
+# dia a dia
+git add .
+git commit -m "msg - dd/mm/aaaa"
+git push -u origin main
+# ------------------------------
