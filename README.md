@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Rodrigo Gonçalves - GUIA PARA APRENDER REACT NATIVE EM 2025
 # https://www.youtube.com/watch?v=20WH5xB54Hc
 #
